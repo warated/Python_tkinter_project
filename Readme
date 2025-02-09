@@ -1,0 +1,11 @@
+~~~Welcome to the Retro App Collection~~~
+
+In this program you can add, edit and delete any type of product which will it be saved in a JSON file.
+Validation has been implemented which Date of manufacturing cannot be in the future,
+and date added cannot be in the future as well.
+
+
+To run the TKinter version run app.py
+
+
+to run the backend version run app_Alpha.py.

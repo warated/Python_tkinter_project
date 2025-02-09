@@ -1,0 +1,143 @@
+{
+    "Action Figures": [
+        {
+            "Title": "Goku SS2",
+            "Date Added": {
+                "py/object": "datetime.date",
+                "__reduce__": [
+                    {
+                        "py/type": "datetime.date"
+                    },
+                    [
+                        "B+kBCQ=="
+                    ]
+                ]
+            },
+            "Date of manufacture": {
+                "py/object": "datetime.date",
+                "__reduce__": [
+                    {
+                        "py/type": "datetime.date"
+                    },
+                    [
+                        "B84ICA=="
+                    ]
+                ]
+            },
+            "Description": "Goku Super Saiyan 2 like New"
+        }
+    ],
+    "Camera": [
+        {
+            "Title": "Nikon D3500",
+            "Date Added": {
+                "py/object": "datetime.date",
+                "__reduce__": [
+                    {
+                        "py/type": "datetime.date"
+                    },
+                    [
+                        "B+QJCQ=="
+                    ]
+                ]
+            },
+            "Date of manufacture": {
+                "py/object": "datetime.date",
+                "__reduce__": [
+                    {
+                        "py/type": "datetime.date"
+                    },
+                    [
+                        "B+AICQ=="
+                    ]
+                ]
+            },
+            "Description": "Nikon Camera D3500"
+        }
+    ],
+    "Computer": [
+        {
+            "Title": "Macintosh",
+            "Date Added": {
+                "py/object": "datetime.date",
+                "__reduce__": [
+                    {
+                        "py/type": "datetime.date"
+                    },
+                    [
+                        "B+MJCQ=="
+                    ]
+                ]
+            },
+            "Date of manufacture": {
+                "py/object": "datetime.date",
+                "__reduce__": [
+                    {
+                        "py/type": "datetime.date"
+                    },
+                    [
+                        "B8kJCQ=="
+                    ]
+                ]
+            },
+            "Description": "Macintosh by Apple"
+        }
+    ],
+    "Consoles": [
+        {
+            "Title": "Xbox 360",
+            "Date Added": {
+                "py/object": "datetime.date",
+                "__reduce__": [
+                    {
+                        "py/type": "datetime.date"
+                    },
+                    [
+                        "B+gJCQ=="
+                    ]
+                ]
+            },
+            "Date of manufacture": {
+                "py/object": "datetime.date",
+                "__reduce__": [
+                    {
+                        "py/type": "datetime.date"
+                    },
+                    [
+                        "B9cJCQ=="
+                    ]
+                ]
+            },
+            "Description": "xbox console"
+        }
+    ],
+    "Phone": [
+        {
+            "Title": "Nokia 3310",
+            "Date Added": {
+                "py/object": "datetime.date",
+                "__reduce__": [
+                    {
+                        "py/type": "datetime.date"
+                    },
+                    [
+                        "B9QBBw=="
+                    ]
+                ]
+            },
+            "Date of manufacture": {
+                "py/object": "datetime.date",
+                "__reduce__": [
+                    {
+                        "py/type": "datetime.date"
+                    },
+                    [
+                        "B9ABAQ=="
+                    ]
+                ]
+            },
+            "Description": "Nokia 3310 (Like New)"
+        }
+    ],
+    "Video Player": []
+}
